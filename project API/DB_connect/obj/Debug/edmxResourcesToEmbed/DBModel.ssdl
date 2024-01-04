@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="angularDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="feedback">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="lastName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="phonNumber" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="likes" Type="int" Nullable="false" />
+    <Property Name="description" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="services">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="showDetails" Type="bit" Nullable="false" />
+    <Property Name="priceFor" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="price" Type="int" Nullable="false" />
+    <Property Name="image" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="title" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="angularDBModelStoreContainer">
+    <EntitySet Name="feedback" EntityType="Self.feedback" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="services" EntityType="Self.services" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

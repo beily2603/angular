@@ -1,0 +1,24 @@
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\bin\Debug\DB_connect.dll.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\bin\Debug\DB_connect.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\bin\Debug\DB_connect.pdb
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\bin\Debug\EntityFramework.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\bin\Debug\EntityFramework.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\obj\Debug\DB_connect.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\obj\Debug\DB_connect.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\obj\Debug\DB_connect.csproj.CopyComplete
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\obj\Debug\DB_connect.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB_connect\obj\Debug\DB_connect.pdb
+F:\בילי בלימודים\project API\DB_connect\bin\Debug\DB_connect.dll.config
+F:\בילי בלימודים\project API\DB_connect\bin\Debug\DB_connect.dll
+F:\בילי בלימודים\project API\DB_connect\bin\Debug\DB_connect.pdb
+F:\בילי בלימודים\project API\DB_connect\bin\Debug\EntityFramework.dll
+F:\בילי בלימודים\project API\DB_connect\bin\Debug\EntityFramework.SqlServer.dll
+F:\בילי בלימודים\project API\DB_connect\bin\Debug\EntityFramework.xml
+F:\בילי בלימודים\project API\DB_connect\bin\Debug\EntityFramework.SqlServer.xml
+F:\בילי בלימודים\project API\DB_connect\obj\Debug\DB_connect.csproj.AssemblyReference.cache
+F:\בילי בלימודים\project API\DB_connect\obj\Debug\DB_connect.csproj.CoreCompileInputs.cache
+F:\בילי בלימודים\project API\DB_connect\obj\Debug\DB_connect.csproj.CopyComplete
+F:\בילי בלימודים\project API\DB_connect\obj\Debug\DB_connect.dll
+F:\בילי בלימודים\project API\DB_connect\obj\Debug\DB_connect.pdb

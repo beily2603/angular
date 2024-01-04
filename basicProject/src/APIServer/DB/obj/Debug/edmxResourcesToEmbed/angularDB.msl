@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="angularDBModelStoreContainer" CdmEntityContainer="angularDBEntities">
+    <EntitySetMapping Name="Feedbacks">
+      <EntityTypeMapping TypeName="angularDBModel.Feedback">
+        <MappingFragment StoreEntitySet="Feedback">
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="phonNumber" ColumnName="phonNumber" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="likes" ColumnName="likes" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Services">
+      <EntityTypeMapping TypeName="angularDBModel.Service">
+        <MappingFragment StoreEntitySet="Services">
+          <ScalarProperty Name="showDetails" ColumnName="showDetails" />
+          <ScalarProperty Name="priceFor" ColumnName="priceFor" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="title" ColumnName="title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,218 @@
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\System.Buffers.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\System.Memory.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\System.Web.Cors.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\WebApplication1\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\WebApplication1.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\System.Buffers.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\System.Memory.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\System.Web.Cors.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\System.Web.Http.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\System.Web.Http.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\פרויקט גמר\‏‏WebApplication1 - עותק (2)\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\WebApplication1.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\System.Buffers.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\System.Memory.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\System.Web.Cors.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\System.Web.Http.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\EntityFramework.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\System.Web.Http.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\EntityFramework.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\DB_connect.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\DB_connect.pdb
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\WebApplication1\bin\DB_connect.dll.config
+F:\בילי בלימודים\project API\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+F:\בילי בלימודים\project API\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+F:\בילי בלימודים\project API\WebApplication1\obj\Debug\WebApplication1.dll
+F:\בילי בלימודים\project API\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\בילי בלימודים\project API\WebApplication1\bin\WebApplication1.dll.config
+F:\בילי בלימודים\project API\WebApplication1\bin\WebApplication1.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\WebApplication1.pdb
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\csc.exe
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\csc.exe.config
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\csc.rsp
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\csi.exe
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\csi.exe.config
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\csi.rsp
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\System.Buffers.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\System.Memory.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\System.Numerics.Vectors.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\vbc.exe
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\vbc.exe.config
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\vbc.rsp
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\בילי בלימודים\project API\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\בילי בלימודים\project API\WebApplication1\bin\DB_connect.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\EntityFramework.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\EntityFramework.SqlServer.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\Newtonsoft.Json.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\System.Net.Http.Formatting.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\System.Web.Cors.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\System.Web.Http.Cors.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\System.Web.Http.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\System.Web.Http.WebHost.dll
+F:\בילי בלימודים\project API\WebApplication1\bin\DB_connect.pdb
+F:\בילי בלימודים\project API\WebApplication1\bin\DB_connect.dll.config
+F:\בילי בלימודים\project API\WebApplication1\bin\EntityFramework.xml
+F:\בילי בלימודים\project API\WebApplication1\bin\EntityFramework.SqlServer.xml
+F:\בילי בלימודים\project API\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\בילי בלימודים\project API\WebApplication1\bin\Newtonsoft.Json.xml
+F:\בילי בלימודים\project API\WebApplication1\bin\System.Web.Http.Cors.xml
+F:\בילי בלימודים\project API\WebApplication1\bin\System.Net.Http.Formatting.xml
+F:\בילי בלימודים\project API\WebApplication1\bin\System.Web.Http.xml
+F:\בילי בלימודים\project API\WebApplication1\bin\System.Web.Http.WebHost.xml
+F:\בילי בלימודים\project API\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete

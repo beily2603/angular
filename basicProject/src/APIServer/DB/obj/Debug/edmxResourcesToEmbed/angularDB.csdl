@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="angularDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Feedback">
+    <Key>
+      <PropertyRef Name="description" />
+      <PropertyRef Name="likes" />
+    </Key>
+    <Property Name="lastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="description" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="phonNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="likes" Type="Int32" Nullable="false" />
+    <Property Name="firstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Service">
+    <Key>
+      <PropertyRef Name="showDetails" />
+      <PropertyRef Name="priceFor" />
+      <PropertyRef Name="price" />
+      <PropertyRef Name="image" />
+      <PropertyRef Name="description" />
+      <PropertyRef Name="title" />
+    </Key>
+    <Property Name="showDetails" Type="Boolean" Nullable="false" />
+    <Property Name="priceFor" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="price" Type="Int32" Nullable="false" />
+    <Property Name="image" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="description" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="angularDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Feedbacks" EntityType="Self.Feedback" />
+    <EntitySet Name="Services" EntityType="Self.Service" />
+  </EntityContainer>
+</Schema>

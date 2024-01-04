@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBModelStoreContainer" CdmEntityContainer="Tech_AngularEntities">
+    <EntitySetMapping Name="Services">
+      <EntityTypeMapping TypeName="DBModel.Service">
+        <MappingFragment StoreEntitySet="Services">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="lowRange" ColumnName="lowRange" />
+          <ScalarProperty Name="highRange" ColumnName="highRange" />
+          <ScalarProperty Name="avgServiceTime" ColumnName="avgServiceTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Feedbacks">
+      <EntityTypeMapping TypeName="DBModel.Feedback">
+        <MappingFragment StoreEntitySet="Feedbacks">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="content" ColumnName="content" />
+          <ScalarProperty Name="likes" ColumnName="likes" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Images">
+      <EntityTypeMapping TypeName="DBModel.Image">
+        <MappingFragment StoreEntitySet="Images">
+          <ScalarProperty Name="service" ColumnName="service" />
+          <ScalarProperty Name="image1" ColumnName="image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

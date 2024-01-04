@@ -1,0 +1,12 @@
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\bin\Debug\DB connect.dll.config
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\bin\Debug\DB connect.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\bin\Debug\DB connect.pdb
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\bin\Debug\EntityFramework.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\bin\Debug\EntityFramework.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\obj\Debug\DB connect.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\obj\Debug\DB connect.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\obj\Debug\DB connect.csproj.CopyComplete
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\obj\Debug\DB connect.dll
+C:\Users\Dell Vostro\Documents\לימודים\שנה ב'\angular\final project\project API\DB connect\obj\Debug\DB connect.pdb

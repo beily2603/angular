@@ -1,0 +1,22 @@
+<form  action="" [formGroup]= "addResponseForm"  (ngSubmit)="addResponse()" class="container-fluname" style=" direction: rtl;">
+  <br>
+<h4>הוספת תגובה</h4>
+<br>
+<input type="text" class="form-control" id="firstName" placeholder="שם פרטי"  formControlName="firstName" name="firstName"  style="width: 30%;margin-right: 37vw;"  >
+<!-- <input type="text" class="form-control" id="name" placeholder="Enter name" formControlName="name" name="name"> -->
+  <br>
+<input title="השם חייב להיות בעברית"id="lastName" name="lastName" class="form-control"  type="text" placeholder="שם משפחה" formControlName="lastName"  style="width: 30%;margin-right: 37vw;">
+
+  <br>
+<input id="description" name="description" class="form-control"  type="text" placeholder="תיאור התגובה"formControlName="description"  style="width: 30%;margin-right: 37vw;">
+
+  <br>
+<input name="phoneNumber"id="phoneNumber" class="form-control"  type="text" placeholder="טלפון" formControlName="phoneNumber"   style="width: 30%;margin-right: 37vw;">
+
+  <br>
+<input class="form-control"  type="email" placeholder="אמייל"id="email" name="email" formControlName="Email"  style="width: 30%;margin-right: 37vw;">
+<br>
+<button type="submit" class="btn btn-light" >הוספה</button>
+
+</form>
+

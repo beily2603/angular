@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Feedbacks">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="date" Type="datetime" Nullable="false" />
+    <Property Name="content" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="likes" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Tech Angular.dbo.Images' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Images">
+    <Key>
+      <PropertyRef Name="service" />
+      <PropertyRef Name="image" />
+    </Key>
+    <Property Name="service" Type="int" Nullable="false" />
+    <Property Name="image" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Services">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="lowRange" Type="int" />
+    <Property Name="highRange" Type="int" Nullable="false" />
+    <Property Name="avgServiceTime" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Images_Services">
+    <End Role="Services" Type="Self.Services" Multiplicity="1" />
+    <End Role="Images" Type="Self.Images" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Services">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Images">
+        <PropertyRef Name="service" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBModelStoreContainer">
+    <EntitySet Name="Feedbacks" EntityType="Self.Feedbacks" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Services" EntityType="Self.Services" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Images" EntityType="Self.Images" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Images].[service] AS [service], 
+    [Images].[image] AS [image]
+    FROM [dbo].[Images] AS [Images]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_Images_Services" Association="Self.FK_Images_Services">
+      <End Role="Services" EntitySet="Services" />
+      <End Role="Images" EntitySet="Images" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

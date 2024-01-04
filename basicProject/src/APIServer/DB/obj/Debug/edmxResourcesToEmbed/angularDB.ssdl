@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="angularDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'angularDB.dbo.Feedback' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Feedback">
+    <Key>
+      <PropertyRef Name="description" />
+      <PropertyRef Name="likes" />
+    </Key>
+    <Property Name="lastName" Type="nvarchar" MaxLength="50" />
+    <Property Name="description" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="phonNumber" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="likes" Type="int" Nullable="false" />
+    <Property Name="firstName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'angularDB.dbo.Services' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Services">
+    <Key>
+      <PropertyRef Name="showDetails" />
+      <PropertyRef Name="priceFor" />
+      <PropertyRef Name="price" />
+      <PropertyRef Name="image" />
+      <PropertyRef Name="description" />
+      <PropertyRef Name="title" />
+    </Key>
+    <Property Name="showDetails" Type="bit" Nullable="false" />
+    <Property Name="priceFor" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="price" Type="int" Nullable="false" />
+    <Property Name="image" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="description" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="title" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="angularDBModelStoreContainer">
+    <EntitySet Name="Feedback" EntityType="Self.Feedback" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Feedback].[lastName] AS [lastName], 
+    [Feedback].[description] AS [description], 
+    [Feedback].[phonNumber] AS [phonNumber], 
+    [Feedback].[Email] AS [Email], 
+    [Feedback].[likes] AS [likes], 
+    [Feedback].[firstName] AS [firstName]
+    FROM [dbo].[Feedback] AS [Feedback]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Services" EntityType="Self.Services" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Services].[showDetails] AS [showDetails], 
+    [Services].[priceFor] AS [priceFor], 
+    [Services].[price] AS [price], 
+    [Services].[image] AS [image], 
+    [Services].[description] AS [description], 
+    [Services].[title] AS [title]
+    FROM [dbo].[Services] AS [Services]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
